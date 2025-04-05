@@ -11,22 +11,18 @@
 # Sobre Mim
 
 
-Apenas uma melancólica se aventurando na paixão pelo mundo da tecnologia.
+🎓 Estudante de Engenharia de Software | 💻 Apaixonado por resolver problemas com código | 🚀 Explorando o universo do desenvolvimento e da inteligência artificial
 
-Sou uma exploradora (na verdade, sou uma conquistadora rsrs) do vasto universo da Tecnologia da Informação, navegando pelo caminho da Ciência da Computação. Minha jornada é marcada por uma busca constante pelo novo, prototipações, experiência do usuário e testes, tentando transformar ideias e desafios em soluções (nem sempre tão simples).
+Olá! Sou o Domiciano, um entusiasta da tecnologia em constante evolução. Atualmente curso Engenharia de Software e venho desenvolvendo projetos com foco em boas práticas de programação, clean code e aprendizado contínuo. Tenho especial interesse por Machine Learning, Python e tecnologias modernas de desenvolvimento web.
 
-Minha curiosidade é uma chama que nunca se apaga (talvez ao raiar do sol — uma típica noturna), guiando-me através do meu fascínio pela ciência de dados e pelo aprendizado de máquinas. Cada projeto se apresenta como uma tela em branco, onde a programação se torna uma forma de expressão e cada desafio, uma oportunidade de descobrir novas possibilidades.
+Aqui no GitHub, você vai encontrar repositórios que refletem minha jornada: estudos, experimentações e projetos práticos que buscam ir além do básico. Vamos codar o futuro? 👨‍💻✨
 
-Seja qual for o obstáculo, posso enfrentá-lo com uma garrafa de café ao meu lado.
 <div> 
 
 
 ### Contatos:
 
 <div> 
-<a href="https://www.instagram.com/GuilhermeDomiciano" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-792912?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
 <a href="mailto:guilhermedomicianosilva@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-792912?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
@@ -47,7 +43,6 @@ Seja qual for o obstáculo, posso enfrentá-lo com uma garrafa de café ao meu l
 #### Main Stack:
 
 ![Python](https://img.shields.io/badge/-Python-792912?style=for-the-badge&logo=python&labelColor=0D1117&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-792912?style=for-the-badge&logo=figma&labelColor=0D1117&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-792912?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAAEzUlEQVR4nN2aeYhVdRTHf6bWmFNWTmlJoVNBETZokljkEqZMQ2qY2UJRf7iQmYmJqYgSttkqiiQ1UUEuLRQtyPiHhe1Jq0KZFmFCJdICbTo5nzjN99Gv43t35s2773VfX7hw3z33/n7n/JZzvuf8XggVBnB6+D8AuAnoG6odwHLgxlDtAD4AmkM1A5hMO54N1QrgDGC/DHkgVCOAeuBL/kFTqDYAQ4BvIyO+ALqHagIwAfg5MqINaEx4/1i7QlYAdAOWSfEYd7r3BgK3Ai8DXwMLgZ4hCwCOBp7jcLwAHCEjG4EtkewTYHDICoB+wPt5jNgK9Ja8xclWA0eFrADoo5H1eAOoBc51m77V6ErIEoAewOt5jLDZOUZGfhM9/w0YF7IG4OY8RnwO1El+h5NNDVkEsM0p+qN5pEi+K5J9FLIKYJ8zZGYkq3FueHPIKvi3pzpoyrv982ck/8X2TMgigDluWXVzcnO/MZaHLAI4Afg+UvQ8Jx/tDPkV6B+yCOCKSNF1eeTrnTH3hqwCeDgKdoOcrA74LjJkZ8gqaOdS66ToqjzymZEh+0KWQbsxKxW9BzrZaZEhr4ZqADDXWLB71hC56OH/pXK1ouDzgTXAM8DzwGzgfJsN936TZYjR72bN1JUJfQwDHjUGIMZwX2pxBzgV2AD8ES0Ny/ymAb06+PbvmAJcDjxmRYiEQaoBRgA3AO9GfX0WB9lSDPmYw/EVMMtYrMUNXfW6LPM7UfcNUu5SuejrgVuAe4CngNeAD4FRrs+ewEtRf3PTMMQ6LBdaCgVH4ILovY1pGGLp6UTgaVVBfC7eGdgG3yu6slbO4BJPZ2IA46PvN4S0oUTpHGASsACY7q6rVEEZq6XVP0nhhH7ujwxZUg5DTtLs2CiP7mIbiYYBJ0elpIOeKZQMKxS4qqHdLwIutOJCgdmr1zKyyP44sFue6OICfXR3RYr5qRqhTnqpBpUEyz9+6uTeMZd8pNuPayPOVrq3SjDGfP7tqpp0ZePvlSe06nxt1G6N4tUhYFNFa12KF42KKSs0ms2K+k+KES/TSdUoy10KtGN1r8XAbbYUK2ZAVKDeLHreYakTOA64RpG7aC9WFgCnuH2wA3hQ8SHnhufpmc3OTi2ZHCyenFVJhevkkSYpPozQ8+GUjk/zebocUpk1YKjlDPIcca5tZG6plsnVwPYild8ldtvk2bKHHEJektkpmH8HfncKLLFKe0KAbBKdX6rEaoWI4WIRxYuKKTgAxysgbi3FEMs1YrSlHlk7Pm/cpr5LMmSsW1K5etXCchmkc5XxqrYcUJ92eDq01IYvc1UPHC1Zr/gwTctqcNI/GlRx7CeyOVKJ1hzFnbcj5XMrwA6GznRtWMAc09VRsiToHec6OwtT6Ici6Mpu4G47S8mjS4MSsAlFG+IaMio+RR21yPvEo1gMDog0viinYO0OKNBvg0pMrakkVwmlnwE6jRqp5GuKruuAa3U/TvKzC1EU125ffbtJs3pIVKdHWoobMx2k/TNDyvVJqbhhfG2RIn6uet+mE9/ylY4UECdrs74pJmwj+IT+AbRA1zxHWe7SN3by+5a8YYxW7UnzkJUljzLMEqgxYsEPaSTf0wa2DW+XjbBle3a/R9WZV4BHFEzt+95dUeAvSdC0qQFNyKEAAAAASUVORK5CYII=&labelColor=0D1117&logoColor=white)&nbsp;
 
 </div>
@@ -56,11 +51,9 @@ Seja qual for o obstáculo, posso enfrentá-lo com uma garrafa de café ao meu l
 
 #### Secondary Stack:
 
-![HTML](https://img.shields.io/badge/-HTML5-792912?style=for-the-badge&logo=html5&labelColor=0D1117&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS3-792912?style=for-the-badge&logo=css3&labelColor=0D1117&logoColor=white)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-792912?style=for-the-badge&logo=sqlite&labelColor=0D1117&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-792912?style=for-the-badge&logo=data:image/png;base64,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&labelColor=0D1117&logoColor=white)&nbsp;
-![Next.tsx](https://img.shields.io/badge/Next.js-792912.svg?style=for-the-badge&logo=nextdotjs&labelColor=0D1117&logoColor=white)&nbsp;
+![Next.js](https://img.shields.io/badge/Next.js-792912.svg?style=for-the-badge&logo=nextdotjs&labelColor=0D1117&logoColor=white)&nbsp;
 
 #### Studying in this moment:
 
